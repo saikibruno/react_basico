@@ -9,6 +9,12 @@ function App() {
     <div>
 
     <h1>Hello World</h1>
+    <h1>Hello World</h1>
+    <h1>Hello World</h1>
+    <h1>Hello World</h1>
+    <h1>Hello World</h1>
+    <h1>Hello World</h1>
+    <h1>Hello World</h1>
     <Menu/>    
     <Button>alert</Button>
     <Button variant="primary">Primary</Button>{' '}
@@ -25,7 +31,7 @@ function App() {
     and tidy.
   </p>
 </Alert>
-<Button></Button>
+
     </div>
   );
 }
