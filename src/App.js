@@ -25,6 +25,7 @@ function App() {
     and tidy.
   </p>
 </Alert>
+<Button></Button>
     </div>
   );
 }
